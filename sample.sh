@@ -1,0 +1,1 @@
+python models/trainer.py --config exchange_rate --seed 123 --note generate_uncond_v2 --action sample 
