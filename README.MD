@@ -1,4 +1,4 @@
-# STDiffusion (ICDE 2025)
+# STDiffusion (In Submission)
 
 ## Authors
 * Zixuan Ma
