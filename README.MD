@@ -1,8 +1,7 @@
 # STDiffusion (In Submission)
 
 ## Authors
-* Zixuan Ma
-* Chenfeng Huang
+
 
 ## System Specifications (Tested Environment)
 * OS: Ubuntu 22.04
